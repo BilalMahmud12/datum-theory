@@ -281,5 +281,5 @@ Datum Theory simply names what was always there — and asks that software be bu
 
 *This document is a companion to:*  
 *Datum Theory: A Chemist's Model for Software Ontology*  
-*Domain-Sovereign Architecture (DSA) — the architectural implementation of Datum Theory*  
-*TurXpert — the reference implementation of DSA*
+*Domain-Sovereign Architecture (DSA) — the architectural governance doctrine derived from Datum Theory*  
+*datum-commerce — the open source reference implementation of DSA (coming soon)*
